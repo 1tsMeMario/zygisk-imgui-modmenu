@@ -2,7 +2,7 @@
 #define ZYGISK_IMGUI_MODMENU_GAME_H
 
 // TODO: change this
-#define TargetLibName "libil2cpp.so"
-#define GamePackageName "com.game.packagename"
+#define TargetLibName "libUE4.so"
+#define GamePackageName "com.tencent.tmgp.gnyx"
 
 #endif //ZYGISK_IMGUI_MODMENU_GAME_H
